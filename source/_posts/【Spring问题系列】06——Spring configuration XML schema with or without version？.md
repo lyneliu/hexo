@@ -1,10 +1,10 @@
 ---
-title: 【Java】01——Java体系结构
+title: 【Spring问题系列】06——Spring configuration XML schema with or without version？
 date: 2017-01-24 14:37:40
-tags: [Java]
-categories: [Java]
+tags: [Spring, schema]
+categories: [Spring]
 ---
-- Java体系结构简略图
+- Spring configuration XML schema
 <!-- more -->
 
 --------------------------------

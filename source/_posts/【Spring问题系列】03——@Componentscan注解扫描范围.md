@@ -1,10 +1,10 @@
 ---
-title: 【Java】01——Java体系结构
+title: 【Spring问题系列】03——@Componentscan注解扫描范围
 date: 2017-01-24 14:37:40
-tags: [Java]
-categories: [Java]
+tags: [Spring]
+categories: [Spring]
 ---
-- Java体系结构简略图
+- Spring Componentscan注解
 <!-- more -->
 
 --------------------------------

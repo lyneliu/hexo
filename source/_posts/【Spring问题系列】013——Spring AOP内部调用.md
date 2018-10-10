@@ -1,10 +1,10 @@
 ---
-title: 【Java】01——Java体系结构
+title: 【Spring问题系列】013——Spring AOP内部调用
 date: 2017-01-24 14:37:40
-tags: [Java]
-categories: [Java]
+tags: [Spring,AOP]
+categories: [Spring]
 ---
-- Java体系结构简略图
+- Spring AOP
 <!-- more -->
 
 --------------------------------
