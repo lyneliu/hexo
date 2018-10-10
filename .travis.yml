@@ -32,4 +32,4 @@ env:
    # Github Pages
    # - GH_REF: github.com/LyneLiu/lyneliu.github.io  这里替换你的github仓库地址
    # Coding Pages
-   - CO_REF: git.coding.net/lyneliu/lyneliu.git  这里替换你的coding仓库地址
+   - CO_REF: git.coding.net/lyneliu/lyneliu.git
