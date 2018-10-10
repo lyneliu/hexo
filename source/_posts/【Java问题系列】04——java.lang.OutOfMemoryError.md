@@ -1,6 +1,6 @@
 ---
 title: 【Java问题系列】04——java.lang.OutOfMemoryError
-date: 2017-01-24 14:37:40
+date: 2017-01-27 14:37:40
 tags: [Java]
 categories: [Java]
 ---

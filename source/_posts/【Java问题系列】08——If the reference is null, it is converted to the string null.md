@@ -1,6 +1,6 @@
 ---
 title: 【Java问题系列】08——If the reference is null, it is converted to the string null
-date: 2017-01-24 14:37:40
+date: 2017-01-31 14:37:40
 tags: [Java]
 categories: [Java]
 ---

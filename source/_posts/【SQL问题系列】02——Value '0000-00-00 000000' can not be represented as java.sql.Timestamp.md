@@ -1,6 +1,6 @@
 ---
 title: 【SQL问题系列】02——Value '0000-00-00 000000' can not be represented as java.sql.Timestamp
-date: 2017-01-24 14:37:40
+date: 2017-01-25 14:37:40
 tags: [SQL]
 categories: [SQL]
 ---

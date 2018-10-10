@@ -1,6 +1,6 @@
 ---
 title: 【Spring问题系列】02——spring-boot-maven-plugin插件
-date: 2017-01-24 14:37:40
+date: 2017-01-25 14:37:40
 tags: [Spring]
 categories: [Spring]
 ---

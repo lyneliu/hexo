@@ -1,6 +1,6 @@
 ---
 title: 【Spring问题系列】011——Return only string message from Spring MVC 3 Controller
-date: 2017-01-24 14:37:40
+date: 2017-02-03 14:37:40
 tags: [Spring]
 categories: [Spring]
 ---

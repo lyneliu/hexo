@@ -1,6 +1,6 @@
 ---
 title: 【Spring问题系列】06——Spring configuration XML schema with or without version？
-date: 2017-01-24 14:37:40
+date: 2017-01-29 14:37:40
 tags: [Spring, schema]
 categories: [Spring]
 ---

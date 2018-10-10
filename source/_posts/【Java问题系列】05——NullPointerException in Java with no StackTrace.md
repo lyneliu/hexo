@@ -1,6 +1,6 @@
 ---
 title: 【Java问题系列】05——NullPointerException in Java with no StackTrace
-date: 2017-01-24 14:37:40
+date: 2017-01-28 14:37:40
 tags: [Java]
 categories: [Java]
 ---

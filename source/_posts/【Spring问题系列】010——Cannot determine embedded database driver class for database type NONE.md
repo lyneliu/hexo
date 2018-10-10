@@ -1,6 +1,6 @@
 ---
 title: 【Spring问题系列】010——Cannot determine embedded database driver class for database type NONE
-date: 2017-01-24 14:37:40
+date: 2017-02-02 14:37:40
 tags: [Spring]
 categories: [Spring]
 ---
