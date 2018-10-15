@@ -23,7 +23,7 @@ after_script:
   # Coding Pages
   # - git push --force --quiet "https://lyneliu:${CO_TOKEN}@${CO_REF}" master:master
   # Gitee Pages
-  - git push --force --quiet "https://LyneLiu:${GITEE_TOKEN}@${GITEE_REPO}" master:master
+  - git push --force --quiet "https://.lyne:${GITEE_TOKEN}@${GITEE_REPO}" master:master
 branches:
   only:
   - master 
