@@ -19,9 +19,9 @@ after_script:
   - git add .
   - git commit -m "TravisCI 自动部署"
   # Github Pages
-  # - git push --force --quiet "https://${CI_TOKEN}@${GH_REF}" master:master 
+  - git push --force --quiet "https://${CI_TOKEN}@${GH_REF}" master:master 
   # Coding Pages
-  # - git push --force --quiet "https://lyneliu:${CO_TOKEN}@${CO_REF}" master:master
+  - git push --force --quiet "https://lyneliu:${CO_TOKEN}@${CO_REF}" master:master
   # Gitee Pages
   - git push --force --quiet "https://lyneliu:${GITEE_TOKEN}@${GITEE_REPO}" master:master
 branches:
@@ -31,8 +31,8 @@ branches:
 env:
  global:
    # Github Pages
-   # - GH_REF: github.com/LyneLiu/lyneliu.github.io  这里替换你的github仓库地址
+   - GH_REF: github.com/LyneLiu/myblog.git
    # Coding Pages
-   # - CO_REF: git@git.dev.tencent.com:lyneliu/lyneliu.git
+   - CO_REF: git.coding.net/lyneliu/lyneliu.git
    # Gitee Pages
    - GITEE_REPO: gitee.com/lyneliu/lyne.git
