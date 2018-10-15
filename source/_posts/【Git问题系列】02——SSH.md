@@ -29,6 +29,11 @@ Host github.com
         PreferredAuthentications publickey
     IdentityFile ~/.ssh/person_rsa
     Port 443
+ # gitee
+Host gitee.com
+    HostName gitee.com
+    PreferredAuthentications publickey
+    IdentityFile ~/.ssh/gitee_rsa
 
 3、将公钥添加是ssh的keyChain（该办法好像仅在Mac OS系统中生效）
 eval $(ssh-agent)
