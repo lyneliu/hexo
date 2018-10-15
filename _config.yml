@@ -70,7 +70,7 @@ theme: yelee
 deploy:
   type: git
   repo:
-    coding: git@git.coding.net:lyneliu/lyneliu.git
+    coding: git@git.dev.tencent.com:lyneliu/lyneliu.git
   branch: master
   
 search:
