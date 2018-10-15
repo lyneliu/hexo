@@ -31,8 +31,8 @@ branches:
 env:
  global:
    # Github Pages
-   - GH_REF: github.com/LyneLiu/myblog.git
+   - GH_REF: github.com/LyneLiu/lyneliu.github.io.git
    # Coding Pages
-   - CO_REF: git.coding.net/lyneliu/myblog.git
+   - CO_REF: git.coding.net/lyneliu/lyneliu.git
    # Gitee Pages
-   - GITEE_REPO: gitee.com/lyneliu/myblog.git
+   - GITEE_REPO: gitee.com/lyneliu/lyneliu.git
