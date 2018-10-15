@@ -23,7 +23,7 @@ after_script:
   # Coding Pages
   # - git push --force --quiet "https://lyneliu:${CO_TOKEN}@${CO_REF}" master:master
   # Gitee Pages
-  - git push --force --quiet "https://${GITEE_TOKEN}@gitee.com:.lyne/lyne.git" master:master
+  - git push --force --quiet "https://lyne:${GITEE_TOKEN}@${GITEE_REPO}" master:master
 branches:
   only:
   - master 
@@ -34,3 +34,5 @@ env:
    # - GH_REF: github.com/LyneLiu/lyneliu.github.io  这里替换你的github仓库地址
    # Coding Pages
    # - CO_REF: git@git.dev.tencent.com:lyneliu/lyneliu.git
+   # Gitee Pages
+   - GITEE_REPO: gitee.com:.lyne/lyne.git
