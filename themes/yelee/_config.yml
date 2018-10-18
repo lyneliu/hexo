@@ -117,7 +117,7 @@ valine:
   verify: false #验证码
   notify: false #评论回复提醒
   avatar: retro #评论列表头像样式：''/mm/identicon/monsterid/wavatar/retro/hide
-  placeholder: Just do it ! #评论框占位符
+  placeholder: Just Enjoy It! #评论框占位符
 
 # >>> Style Customisation 样式自定义 <<<
 
