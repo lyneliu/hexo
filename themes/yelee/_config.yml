@@ -97,7 +97,7 @@ disqus:
   # you have set "disqus_shortname" in your site's "_config.yml" 
 
 duoshuo: 
-  on: true
+  on: false
   domain: lyneliu
   # 是否开启多说评论，http://duoshuo.com/create-site/
   # 使用上面网址登陆你的多说，然后创建站点，在 domain 中填入你设定的域名前半部分
@@ -110,6 +110,14 @@ youyan:
   # id 中填写你的友言用户数字ID，注册后进入后台管理即可查看
   # 友言服务在 Web 环境下运行，普通本地环境无法查看，请部署后在线上测试。
 
+valine:
+  on: true
+  appid: Qaizjw6dMU6kwJpnwve7BIug-gzGzoHsz
+  appkey: 9On07GjBwnlGQhkjap0wyk2k
+  verify: false #验证码
+  notify: false #评论回复提醒
+  avatar: retro #评论列表头像样式：''/mm/identicon/monsterid/wavatar/retro/hide
+  placeholder: Just do it ! #评论框占位符
 
 # >>> Style Customisation 样式自定义 <<<
 
@@ -299,6 +307,7 @@ CDN:
   clipboard: //cdn.bootcss.com/clipboard.js/1.5.10/clipboard.min.js
   mathjax: //cdn.bootcss.com/mathjax/2.6.1/MathJax.js
   scrollreveal: //cdn.bootcss.com/scrollReveal.js/3.1.4/scrollreveal.min.js
+  valine: //unpkg.com/valine@1.3.1/dist/Valine.min.js
 
 include:
   - .nojekyll
