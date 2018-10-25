@@ -38,6 +38,9 @@ replace in path，在文件目录的内容中替换
 9. Ctrl + C / Ctrl + V
 复制/粘贴
 
+10. Ctrl + Shift + U
+选择内容大小写转换
+
 ## 查找文件、代码、引用相关
 
 1. Alt + 1

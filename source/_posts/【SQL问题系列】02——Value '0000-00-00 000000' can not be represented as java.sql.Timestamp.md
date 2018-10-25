@@ -12,18 +12,18 @@ categories: [SQL]
 
 1、异常信息：
 
-Caused by: java.sql.SQLException: Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:897)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:886)
-	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:860)
-	at com.mysql.jdbc.ResultSetRow.getTimestampFast(ResultSetRow.java:937)
-	at com.mysql.jdbc.ByteArrayRow.getTimestampFast(ByteArrayRow.java:130)
-	at com.mysql.jdbc.ResultSetImpl.getTimestampInternal(ResultSetImpl.java:5934)
-	at com.mysql.jdbc.ResultSetImpl.getTimestamp(ResultSetImpl.java:5604)
-	at com.mysql.jdbc.ResultSetImpl.getObject(ResultSetImpl.java:4557)
-	at com.mysql.jdbc.ResultSetImpl.getObject(ResultSetImpl.java:4703)
-	... 46 more
+	Caused by: java.sql.SQLException: Value '0000-00-00 00:00:00' can not be represented as java.sql.Timestamp
+		at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:964)
+		at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:897)
+		at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:886)
+		at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:860)
+		at com.mysql.jdbc.ResultSetRow.getTimestampFast(ResultSetRow.java:937)
+		at com.mysql.jdbc.ByteArrayRow.getTimestampFast(ByteArrayRow.java:130)
+		at com.mysql.jdbc.ResultSetImpl.getTimestampInternal(ResultSetImpl.java:5934)
+		at com.mysql.jdbc.ResultSetImpl.getTimestamp(ResultSetImpl.java:5604)
+		at com.mysql.jdbc.ResultSetImpl.getObject(ResultSetImpl.java:4557)
+		at com.mysql.jdbc.ResultSetImpl.getObject(ResultSetImpl.java:4703)
+		... 46 more
 	
 
 2、解决办法
