@@ -1,5 +1,5 @@
 ---
-title: 【Git问题系列】02——SSH
+title: 【Git系列】02——SSH
 date: 2017-01-27 10:31:09
 tags: [Git,ssh]
 categories: [Git]

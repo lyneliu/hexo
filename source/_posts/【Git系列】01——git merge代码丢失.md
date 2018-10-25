@@ -1,13 +1,33 @@
 ---
-title: 【Git问题系列】01——git merge代码丢失
+title: 【Git系列】01——git常用命令
 date: 2017-01-27 13:42:56
 tags: [Git,merge]
 categories: [Git]
 ---
-- git merge 操作问题
+- git常用该命令
 <!-- more -->
 
 --------------------------------
+
+## 常用命令
+
+    git add .
+    
+    git commit -m '注释'
+    
+    git pull --rebase origin master
+    
+    git push origin master
+    
+    git remote add origin remote-path
+    git remote add origin-github remote-path
+    git remote add origin-gitee remote-path
+    
+    git remote remove origin
+    git remote remove origin-github
+    git remote remove origin-gitee
+
+## 常见问题
 
 当有多个代码分支进行功能开发的时候，通常需要使用git merge命令将代码分支进行合并。
 
