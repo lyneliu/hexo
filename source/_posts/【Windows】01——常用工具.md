@@ -17,7 +17,7 @@ categories: [Windows]
 
 2、思维导图工具
 
-    Xmin
+    Xmind
     processon（在线）
     draw.io（https://www.draw.io/）
 
