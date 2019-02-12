@@ -25,3 +25,4 @@ Online DDL(Data Definition Language):
 
     https://github.com/github/gh-ost
     http://mysql.taobao.org/monthly/2018/05/02/
+    https://beanbee.me/2018/05/05/ghost-cut-over-steps/
