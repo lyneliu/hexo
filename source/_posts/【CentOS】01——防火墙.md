@@ -69,3 +69,6 @@ categories: [Linux]
         
         iptables -P FORWARD DROP
 
+参考链接：
+        https://wangchujiang.com/linux-command/c/iptables.html
+		http://www.zsythink.net/archives/1199
