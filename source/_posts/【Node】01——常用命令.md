@@ -38,6 +38,8 @@ categories: [Node]
 	2、windows修改环境变量PATH，不重启生效办法：打开一个dos窗口，set PATH=test,然后关闭dos窗口，再重新开启另一个dos窗口，echo %PATH%，这个时候，PATH设置的环境变量已经生效。原理是该操作会使操作系统刷新配置的缓存信息。
 
 4、npm vs yarn
+
+
 |	npm 命令	|	Yarn 命令 | 备注 |
 |:--------|:--------|:--------|
 |	npm install |	yarn install |	安装所有依赖包（依据package.json中的依赖配置参数） |
