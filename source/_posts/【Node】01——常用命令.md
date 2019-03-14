@@ -39,7 +39,7 @@ categories: [Node]
 
 4、npm vs yarn
 |	npm 命令	|	Yarn 命令 | 备注 |
-|------|------|---------|
+|------|------|------|
 |	npm install |	yarn install |	安装所有依赖包（依据package.json中的依赖配置参数） |
 |	(N/A)	|	yarn install --flat | 单版本模式 |
 |	(N/A)	|	yarn install --har| 生成har文件，记录安装时网络请求性能 |
