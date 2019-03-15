@@ -26,6 +26,7 @@ Popen("iptables -I INPUT -s %s -j DROP" % “,shell=True,bufsize=1024,stdout=PIP
     Cron invokes the command from the user’s home directory. The HOME variable can be overridden by settings in the crontab.
     The email notification is sent to the owner of the crontab. To overwrite the default behavior you can use the MAILTO environment variable with a list (comma separated) of all the email addresses you want to receive the email notifications. If MAILTO is defined but empty (MAILTO=""), no mail is sent.
 
+
 参考链接：
 
 http://www.lpfrx.com/archives/5915/
