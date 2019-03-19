@@ -25,11 +25,13 @@ categories: [Windows]
 3、模拟终端
 
     MobaXterm
-    Xshell
+    Xshell(公司开发环境需要购买)
     putty
     securecrt
     WinSCP（SFTP）
     mRemoteNG（推荐使用）
+    Powershell
+    Terminus
 
 4、代码管理
 
@@ -58,11 +60,15 @@ categories: [Windows]
     Bookmarks clean up（便签维护插件）
     EditThisCookie（Cookie编辑插件）
     Wappalyzer（网站实现技术解析）
+    ElasticSearch Head
+    Tampermonkey
+    Wappalyzer
 
     FireFox：
     RESTClient
     HttpRequester
     Firebug
+    Elegant JSON Editor
 
 7、屏幕截取工具
 
@@ -99,6 +105,7 @@ categories: [Windows]
     ETL(kettle)
     dbvisualizer
     Excel2Mysql
+    Redis Desktop Manager
 
 
 13、正则表达在线工具
@@ -135,26 +142,24 @@ categories: [Windows]
     GoodSync（WRH-LCZ-CJ8-1U5）
     https://sharewareonsale.com/checkout/order-received/11055457?key=wc_order_5af4dd998c8f0
 
-19、系统安装工具
-    
-    EasyBCD（系统引导设置与管理的免费软件，可以用来装双系统、管理系统引导项http://neosmart.net/EasyBCD/）
 
-20、系统环境变量
+19、系统环境变量
 
     EnvMan
 
-21、PDF工具
+20、PDF工具
 
     PDFsam（https://pdfsam.org/zh/）
 
-22、双系统工具
+21、系统工具
 
-    EasyBCD
+    EasyBCD（系统引导设置与管理的免费软件，可以用来装双系统、管理系统引导项http://neosmart.net/EasyBCD/）
     分区助手
 
-23、renamer lite（批量修改文件名）
+22、renamer lite（批量修改文件名）
 
-24、任务清单
+23、任务清单
 
     Notion
     https://www.notion.so/desktop
+    Trello
