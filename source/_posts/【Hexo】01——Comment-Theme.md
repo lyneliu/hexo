@@ -4,21 +4,23 @@ date: 2018-10-18 10:08:04
 tags: [Hexo, Valine]
 categories: [Hexo]
 ---
+
 - Hexo 评论系统
+
 <!-- more -->
 
 --------------------------------
 
 1、注册leancloud
-https://leancloud.cn/
+<https://leancloud.cn/>
 
 2、创建应用后，获取App ID和App Key
 控制台 -> 创建应用 -> 设置 -> 应用Key
 
 3、修改Yelee配置文件
-    
+
     _config.yml添加valine配置信息：
-    valine: 
+    valine:
      appid:  #Leancloud应用的appId
      appkey:  #Leancloud应用的appKey
      verify: false #验证码
@@ -36,7 +38,6 @@ https://leancloud.cn/
         }) %>
 
 
-    
     创建comment文件layout/_partial/post/valine.ejs
     <section id='comments' style='margin: 2em; padding: 2em; background: rgba(255, 255, 255, 0.5)'>
       <div id='vcomment' class='comment'></div>
@@ -55,13 +56,9 @@ https://leancloud.cn/
       </script>
     </section>
 
-
-
 注：
 尝试了Gitalk后还是放弃了，最终采取的方案是valine.
 
-
-
 参考链接：
-https://valine.js.org/
-https://blog.wangriyu.wang/2018/03-valine.html
+<https://valine.js.org/>
+<https://blog.wangriyu.wang/2018/03-valine.html>
