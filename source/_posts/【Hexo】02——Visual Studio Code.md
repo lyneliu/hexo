@@ -11,8 +11,6 @@ categories: [Hexo]
 
 --------------------------------
 
-# Visual Studio Code For Hexo
-
 ## 1. vscode-hexo
 
     提供hexo命令行，如init, new, generate, server, deploy, publish, clean
