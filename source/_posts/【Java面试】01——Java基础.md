@@ -11,24 +11,43 @@ categories: [Java]
 
 --------------------------------
 
+- 面向对象
 
-## 封装、继承、多态
+- 封装、继承、多态
 
-## 抽象和接口
+- 抽象和接口
 
-## Object方法及使用？
+- Object方法及使用？
 
-## 字符串不变性
+- 拆箱、装箱？
 
-## equals()方法、hashCode()方法的区别？
+- 字符串不变性
 
-## Java异常类的层次结构？异常处理注意事项？
+- equals()方法、hashCode()方法的区别？
 
-## Java集合？
+- Java异常类的层次结构？异常处理注意事项？
 
-## Set和List的区别？
+- Java集合？
 
-## ArrayList和LinkedList区别？
+- 线程安全的集合？
+
+- Set和List的区别？
+
+- ArrayList和LinkedList区别？
+
+- static初始化流程？
+
+- HashMap、HashTable区别？
+
+- HashMap、ConcurrentMap实现？
+
+- BIO、NIO（Reactor模式）、AIO（Proactor模式）区别及实现？
+
+- final、finally、finalize区别？
+
+- 序列化的原理？ Jackson、Fastjson、Gson区别？
+
+- Java异常及常见异常？
 
 参考链接：
 <https://www.jianshu.com/p/50b085b4920e>
