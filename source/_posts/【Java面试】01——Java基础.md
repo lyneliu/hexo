@@ -13,6 +13,10 @@ categories: [Java]
 
 - 面向对象
 
+    面向对象（Object Oriented Programming），简称OOP，把**对象**作为程序的基本单元，一个对象包含了属性（数据）和方法（操作数据的函数）。
+
+    Note： OOP（面向对象）、OP（面向过程）、AOP（面向切面）
+
 - 封装、继承、多态
 
 - 抽象和接口
@@ -41,6 +45,8 @@ categories: [Java]
 
 - HashMap、ConcurrentMap实现？
 
+- Java IO
+
 - BIO、NIO（Reactor模式）、AIO（Proactor模式）区别及实现？
 
 - final、finally、finalize区别？
@@ -48,6 +54,8 @@ categories: [Java]
 - 序列化的原理？ Jackson、Fastjson、Gson区别？
 
 - Java异常及常见异常？
+
+- Java是值传递还是引用传递？
 
 参考链接：
 <https://www.jianshu.com/p/50b085b4920e>
