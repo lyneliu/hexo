@@ -13,9 +13,9 @@ categories: [Java]
 
 - 面向对象
 
-        面向对象（Object Oriented Programming），简称OOP，把**对象**作为程序的基本单元，一个对象包含了属性（数据）和方法（操作数据的函数）。
+   面向对象（Object Oriented Programming），简称OOP，把**对象**作为程序的基本单元，一个对象包含了属性（数据）和方法（操作数据的函数）。
 
-        Note： OOP（面向对象）、OP（面向过程）、AOP（面向切面）
+    Note： OOP（面向对象）、OP（面向过程）、AOP（面向切面）
 
 - 封装、继承、多态
 
