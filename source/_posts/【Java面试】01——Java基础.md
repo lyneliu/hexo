@@ -48,6 +48,9 @@ categories: [Java]
 - Java IO
 
 - BIO、NIO（Reactor模式）、AIO（Proactor模式）区别及实现？
+  
+    思考：ServerSocket.accept()是线程安全的么？
+    <https://segmentfault.com/a/1190000012976683>
 
 - final、finally、finalize区别？
 
