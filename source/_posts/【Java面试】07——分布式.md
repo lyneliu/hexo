@@ -32,8 +32,10 @@ categories: [Java]
 - 微服务高可用
 - 消息队列
 
-- docker 
+- docker
 <https://segmentfault.com/a/1190000017128237>
+
+- Redis
 
 参考链接：
 <https://825635381.iteye.com/blog/2276077>
