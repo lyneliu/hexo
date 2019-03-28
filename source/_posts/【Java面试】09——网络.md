@@ -10,6 +10,23 @@ categories: [Java]
 
 --------------------------------
 
+- NIO SelectionKey
+    SelectionKey包含四种事件：
+    1. Connect, 即连接事件(TCP连接);
+    2. Accept, 即确认事件;
+    3. Read, 即读事件;
+    4. Write, 即写事件;
+
+- NIO
+    客户端的SocketChannel支持 OP_CONNECT, OP_READ, OP_WRITE三个操作;
+    服务端ServerSocketChannel支持OP_ACCEPT操作;
+    在服务端由ServerSocketChannel的accept()方法产生的SocketChannel支持OP_READ, OP_WRITE操作.
+    |	C/S	|	Channel类  |  OP_ACCEPT  |  OP_CONNECT  |  OP_WRITE  |  OP_READ  |
+    |:--------|:--------|:--------|:--------|:--------|:--------|
+    |  Client | SocketChannel| |Y|Y|Y|
+    |  Server | ServerSocketChannel|Y||||
+    |  Server | SocketChannel| ||Y|Y|
+
 - TCP三次握手
     第一次握手：客户端发送TCP包，置SYN标志位为1，将初始序号X，保存在包头的序列号(Seq)里。
     第二次握手：服务端回应确认包，置SYN标志位为1，置ACK为X+1，将初始序列号Y，保存在包头的序列号里。

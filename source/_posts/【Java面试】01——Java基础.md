@@ -46,8 +46,10 @@ categories: [Java]
 - HashMap、ConcurrentMap实现？
 
 - Java IO
+    ByteBuffer
+    <https://my.oschina.net/flashsword/blog/159613>
 
-- BIO、NIO（Reactor模式）、AIO（Proactor模式）区别及实现？
+- BIO（同步阻塞）、NIO（同步非阻塞、Reactor模式）、AIO（异步非阻塞Proactor模式）区别及实现？
   
     思考：ServerSocket.accept()是线程安全的么？
     <https://segmentfault.com/a/1190000012976683>
@@ -82,6 +84,8 @@ categories: [Java]
     var row.status == 0 ? '未支付' : (row.status == 1 ? '已支付' : '作废')"
 
 - fail-fast和fail-safe？
+
+- Class.forName和ClassLoader.loadClass区别？
 
 参考链接：
 <https://www.jianshu.com/p/50b085b4920e>
