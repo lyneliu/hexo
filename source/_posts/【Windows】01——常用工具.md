@@ -21,6 +21,7 @@ categories: [Windows]
     Xmind
     processon（在线）
     draw.io（https://www.draw.io/）
+    mindmaster
 
 3、模拟终端
 
@@ -106,6 +107,7 @@ categories: [Windows]
     dbvisualizer
     Excel2Mysql
     Redis Desktop Manager
+    DataGrip
 
 
 13、正则表达在线工具
